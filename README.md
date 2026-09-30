@@ -93,8 +93,8 @@ A practical e-commerce application connecting local farmers with customers.
 ## Contact
 
 - GitHub: https://github.com/NRB10Nimesh
-- Email: [Add your email here]
-- LinkedIn: [Add your LinkedIn profile here]
+- Email: bhatrananimesh@gmail.com
+- LinkedIn:www.linkedin.com/in/nimesh-ranabhat
 
 ## Note
 
